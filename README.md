@@ -1,3 +1,3 @@
 # Cloud Application Development Project – Votify (User-Friendly Online Voting System)
 Developing a Cloud-Based Online Voting Web Application (Votify) using Django (Python Web Based Framework) and Discuss the requirement of Public Cloud for its Deployment.
-Frontend – Bootstrap and Backend – Django (Python Web Based Framework) and SQLlite3 as Default Database.
+Frontend – Bootstrap and Backend – Django and SQLlite3 as Default Database.
